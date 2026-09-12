@@ -30,10 +30,10 @@
 ## 🌐 Find me here
 
 <div align="center">
-<a href="YOUR_LINKEDIN_URL_HERE">
+<a href="https://www.linkedin.com/in/yash-gadewar-6716ab388/">
 <img src="https://img.shields.io/badge/LinkedIn-14151f?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
 </a>
-<a href="YOUR_INSTAGRAM_URL_HERE">
+<a href="stagram.com/yash_g77">
 <img src="https://img.shields.io/badge/Instagram-14151f?style=for-the-badge&logo=instagram&logoColor=E4405F" />
 </a>
 <a href="YOUR_X_URL_HERE">
@@ -41,17 +41,17 @@
 </a>
 </div>
 
-<p align="center"><sub>⚠️ Replace the three placeholder URLs above with your real profile links — see the setup note at the bottom.</sub></p>
+<p align="center"><sub>.</sub></p>
 
 <br/>
 
-## 🕹️ Pac-Man
+## 👾 Pac-Man
 
 <div align="center">
 
 <img src="./assets/pacman-demo.svg" width="640" alt="An auto-playing Pac-Man animation: Pac-Man eats dots and a power pellet down a corridor while a ghost chases, with a live-updating score, looping forever."/>
 
-<sub>Runs on its own, right here in the README — no click needed. It's a hand-built SVG animation (score ticks up, ghost turns blue after the power pellet, then it loops), not a screen recording.</sub>
+<sub>Runs on its own, right here in the README — no click needed. It's a hand-built SVG animation, just to make profile interactive.</sub>
 
 </div>
 
