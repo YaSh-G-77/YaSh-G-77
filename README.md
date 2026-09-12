@@ -60,7 +60,7 @@
 Want to actually *play* it yourself instead of watching it play? GitHub strips JavaScript out of README files, so a truly interactive game can't run on this page — but a full playable version (real keyboard controls, 4 ghosts with proper chase/scatter/frightened AI, lives, win/lose states) lives in this repo's [`pacman-game/`](./pacman-game/index.html) folder and runs live once GitHub Pages is turned on:
 
 <div align="center">
-<a href="https://YOUR-USERNAME.github.io/pacman-game/">
+<a href="https://yash-g-77.github.io/YaSh-G-77/pacman-game/">
 <img src="https://img.shields.io/badge/▶ PLAY_THE_REAL_GAME-14151f?style=for-the-badge&logo=googlecontroller&logoColor=00E5C7" />
 </a>
 </div>
