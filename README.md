@@ -33,7 +33,7 @@
 <a href="https://www.linkedin.com/in/yash-gadewar-6716ab388/">
 <img src="https://img.shields.io/badge/LinkedIn-14151f?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
 </a>
-<a href="stagram.com/yash_g77">
+<a href="instagram.com/yash_g77">
 <img src="https://img.shields.io/badge/Instagram-14151f?style=for-the-badge&logo=instagram&logoColor=E4405F" />
 </a>
 <a href="YOUR_X_URL_HERE">
