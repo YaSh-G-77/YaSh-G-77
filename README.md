@@ -49,7 +49,7 @@
 
 <div align="center">
 
-<img src="./assets/pacman-demo.svg" width="640" alt="An auto-playing Pac-Man animation: Pac-Man eats dots and a power pellet down a corridor while a ghost chases, with a live-updating score, looping forever."/>
+<img src="./pacman-demo.svg" width="640" alt="An auto-playing Pac-Man animation"/>
 
 <sub>Runs on its own, right here in the README — no click needed. It's a hand-built SVG animation, just to make profile interactive.</sub>
 
