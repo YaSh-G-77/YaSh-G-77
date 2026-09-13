@@ -73,25 +73,5 @@ I'm just getting started on the path to becoming an **AI/ML Engineer** — right
 
 When I'm not debugging a notebook, I'm probably watching anime — hence the guy up top who's always three steps ahead of everyone else. This repo is basically my corner of GitHub: part progress log, part playground, part proof that I can also make a ghost chase a yellow circle.
 
-<br/>
 
-<details>
-<summary>⚙️ Setup notes (for Yokso, not visitors)</summary>
 
-<br/>
-
-**1. Replace the social links**
-In `README.md`, swap `YOUR_LINKEDIN_URL_HERE`, `YOUR_INSTAGRAM_URL_HERE`, and `YOUR_X_URL_HERE` with your real profile URLs.
-
-**2. Turn on GitHub Pages so the Pac-Man link works**
-- Go to this repo's **Settings → Pages**
-- Under "Build and deployment", set **Source** to `Deploy from a branch`
-- Set **Branch** to `main` and folder to `/ (root)`, then **Save**
-- After a minute, your game will be live at `https://YOUR-USERNAME.github.io/pacman-game/`
-
-**3. Update the Pac-Man badge link**
-In `README.md`, replace `YOUR-USERNAME` in the Pac-Man badge URL with your actual GitHub username.
-
-That's it — the README updates instantly, the game deploys automatically on every push to `main`.
-
-</details>
